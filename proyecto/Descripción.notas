@@ -1,0 +1,23 @@
+PROYECTO FINAL 
+
+
+Requisitos 
+1. Descripción
+2. diagrama de clases 
+3. codigo en githat
+4. minimo 4 clases 
+5. haveruso de paquetes y visibilidad
+6. minimo 1 herencia y 1 polimorfismo por sobreescritura
+7. minimo 1 interface con 2 metodos 
+
+
+
+Sistema de Gestión de Inventarios:
+Desarrolla un sistema completo de gestión de inventarios que abarque la entrada y salida de productos,
+seguimiento de existencias y generación de informes. Este proyecto implica la integración de múltiples 
+módulos y optimización de procesos.
+
+inspirado un poco con el proyecto de bases de datos los cuales tenian como 
+objetivo tener un inventario el cual pudiera almacenar informacion del emprendimiento 
+que llevo acabo.
+
